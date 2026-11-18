@@ -1,6 +1,8 @@
 # makefun-btc-race-24h-20261118-1444
 
 [![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/alchemist199/makefun-btc-race-24h-20261118-1444/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/alchemist199/makefun-btc-race-24h-20261118-1444/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 Selective dip mean-reversion BTC trading bot: buys CBBTC when it closes more than 0.5% below its 60-bar average and turns up, sells at a +0.6% take-profit or 60 bars later, with two brakes that keep it out of grinding-down markets and an always-trade fallback so it never ends a window with 0 trades. Dev window net PnL +$9.68.
 
